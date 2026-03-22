@@ -1,0 +1,1 @@
+A finalidade do projeto é a prática dos fundamentos de arquitetura de software e TypeScript.
